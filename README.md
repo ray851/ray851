@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ray851
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html,css and javascript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me through my email bangnarayan978@gmail.com
 - 😄 Pronouns: He/Him
